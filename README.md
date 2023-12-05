@@ -2,8 +2,6 @@
 
 This Python-based project demonstrates an efficient approach to web scraping by utilizing asynchronous requests and HTML parsing to extract quotes and their authors from https://quotes.toscrape.com/, storing the information in a JSON file.
 
-## Author
-**Jai Reddy Kukunuru**
 
 ## Key Features
 - Asynchronous HTTP Requests for enhanced efficiency.
