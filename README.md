@@ -1,6 +1,6 @@
 # Async Web Scraping
 
-This Python-based project demonstrates an efficient approach to web scraping by utilizing asynchronous requests and HTML parsing to extract quotes and their authors from https://quotes.toscrape.com/, storing the information in a JSON file.
+This Python script demonstrates an efficient approach to web scraping by utilizing asynchronous requests and HTML parsing to extract quotes and their authors from https://quotes.toscrape.com/, storing the information in a JSON file.
 
 
 ## Key Features
