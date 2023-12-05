@@ -18,4 +18,8 @@ This Python-based project demonstrates an efficient approach to web scraping by 
 - **`logging`**: Provides insights into the script's operation and troubleshoots issues during scraping.
 
 ## Installation and Dependencies
-Ensure Python is installed along with `aiohttp`, `BeautifulSoup4`, `certifi`, and other necessary libraries:
+Ensure Python is installed along with `aiohttp`, `BeautifulSoup4`, `certifi`, and other necessary libraries
+
+## References
+- https://realpython.com/async-io-python/
+- https://pypi.org/project/aiohttp/
